@@ -1,5 +1,4 @@
-# Shopify Analysis on Power BI| Sales & Customer Funnel Report
-
+# Shopify | Sales & Customer Funnel Report
 
 An interactive Power BI dashboard analyzing Shopify e-commerce sales data across **7,431 orders** spanning one week of US operations. The report covers transaction performance, customer behavior, regional trends, payment preferences, and product insights — designed to support data-driven business decisions.
 
@@ -8,15 +7,16 @@ An interactive Power BI dashboard analyzing Shopify e-commerce sales data across
 ## Dashboard
 
 ### Page 1 — Full Analysis View
-![Uploading Screenshot 2026-06-09 151403.png…]()
 
+ 
 
 ### Page 2 — Filtered View (Shopify Payments | Net Sales)
-![Dashboard Filtered](assets/dashboard_filtered.png)
+
+ 
 
 ### Page 3 — Dynamic Measure View (Total Customers)
-![Dashboard Customers](assets/dashboard_customers.png)
 
+ 
 ---
 
 ## Business Objective
@@ -33,7 +33,7 @@ The dashboard enables stakeholders to identify patterns in revenue generation, c
 
 ---
 
-##  Repository Structure
+## Repository Structure
 
 ```
 shopify-powerbi/
@@ -151,5 +151,9 @@ shopify-powerbi/
 ---
 
 *Dataset is anonymized dummy data based on a real Shopify store. No proprietary business information is disclosed.*
+
+
+
+
 
 
