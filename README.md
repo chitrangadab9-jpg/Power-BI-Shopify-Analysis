@@ -1,14 +1,11 @@
-# 🛍️ Shopify Analysis on Power BI| Sales & Customer Funnel Report
+# Shopify Analysis on Power BI| Sales & Customer Funnel Report
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
 An interactive Power BI dashboard analyzing Shopify e-commerce sales data across **7,431 orders** spanning one week of US operations. The report covers transaction performance, customer behavior, regional trends, payment preferences, and product insights — designed to support data-driven business decisions.
 
 ---
 
-## 📊 Dashboard
+## Dashboard
 
 ### Page 1 — Full Analysis View
 ![Dashboard Main](assets/dashboard_main.png)
@@ -52,7 +49,7 @@ shopify-powerbi/
 
 ---
 
-## 📋 Dataset Overview
+## Dataset Overview
 
 - **Source:** Shopify e-commerce export (anonymized/dummy data)
 - **Period:** March 18–24 (one week)
@@ -75,7 +72,7 @@ shopify-powerbi/
 
 ---
 
-## 📐 KPIs & Measures
+## KPIs & Measures
 
 ### Transaction Performance
 | KPI | Value (Full Dataset) |
@@ -102,7 +99,7 @@ shopify-powerbi/
 
 ---
 
-## 📊 Dashboard Features
+## Dashboard Features
 
 - **Dynamic Measure Switching** — All charts update across Net Sales, Total Quantity, Total Customers, and Repeat Customers via a single slicer
 - **Regional Analysis** — Province-level choropleth map + city-level bubble density map with tooltips
@@ -115,7 +112,7 @@ shopify-powerbi/
 
 ---
 
-## 💡 Key Insights
+## Key Insights
 
 - **Top states:** Texas, California, Florida, and New York drive the majority of revenue
 - **Top cities:** Washington DC, Houston, and El Paso lead in Net Sales
@@ -127,7 +124,7 @@ shopify-powerbi/
 
 ---
 
-## 🛠️ Tools & Techniques
+## Tools & Techniques
 
 | Tool / Feature | Usage |
 |---|---|
@@ -142,7 +139,7 @@ shopify-powerbi/
 
 ---
 
-## 🚀 How to Use
+## How to Use
 
 1. Download `ShopifySalesReport.pbix` from the `powerbi/` folder
 2. Open in **Power BI Desktop** *(free — [download here](https://powerbi.microsoft.com/desktop/))*
