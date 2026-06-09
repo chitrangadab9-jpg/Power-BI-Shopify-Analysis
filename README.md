@@ -8,7 +8,8 @@ An interactive Power BI dashboard analyzing Shopify e-commerce sales data across
 ## Dashboard
 
 ### Page 1 — Full Analysis View
-![Dashboard Main](assets/dashboard_main.png)
+![Uploading Screenshot 2026-06-09 151403.png…]()
+
 
 ### Page 2 — Filtered View (Shopify Payments | Net Sales)
 ![Dashboard Filtered](assets/dashboard_filtered.png)
@@ -18,7 +19,7 @@ An interactive Power BI dashboard analyzing Shopify e-commerce sales data across
 
 ---
 
-## 🎯 Business Objective
+## Business Objective
 
 Analyze Shopify sales data to uncover meaningful insights across three core areas:
 
@@ -32,7 +33,7 @@ The dashboard enables stakeholders to identify patterns in revenue generation, c
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```
 shopify-powerbi/
