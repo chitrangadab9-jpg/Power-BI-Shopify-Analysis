@@ -7,7 +7,7 @@ An interactive Power BI dashboard analyzing Shopify e-commerce sales data across
 ## Dashboard
 
 ### Page 1 — Full Analysis View
-![Dashboard Main](Assets/dashboard_main.png)
+![Dashboard Main](Assets/Net_sales_Performance.png)
 
 
  
