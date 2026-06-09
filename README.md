@@ -6,17 +6,11 @@ An interactive Power BI dashboard analyzing Shopify e-commerce sales data across
 
 ## Dashboard
 
-### Page 1 — Full Analysis View
-![Dashboard Main](Assets/Net_sales Performance.png)
+### Page 1 — Net Sales Performance
+![Net Sales Performance](Assets/Net_sales%20Performance.png)
 
-
- 
-
-### Page 2 — Filtered View (Shopify Payments | Net Sales)
-
- 
-
-### Page 3 — Dynamic Measure View (Total Customers)
+### Page 2 — Total Customers View
+![Total Customers](Assets/Total%20Customers.png)
 
  
 ---
